@@ -1,0 +1,11 @@
+# Per-machine identity (sourced via include in shell/.gitconfig)
+**/.gitconfig.local
+
+# Per-machine secrets (auto-loader in ~/.zsh_profile)
+**/.config/personal/env/*
+
+# Common noise
+*.log
+*.cache
+*.local
+.DS_Store
