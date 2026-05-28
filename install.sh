@@ -130,7 +130,7 @@ Next steps:
   • Open a NEW terminal so the new $SHELL takes effect.
   • Hit Ctrl+F to launch tmux-sessionizer.
   • For the Hyprland rice, install dotfiles-desktop alongside:
-        git clone https://github.com/<your-username>/dotfiles-desktop ~/dotfiles-desktop
+        git clone https://github.com/Asteromorph/dotfiles-desktop ~/dotfiles-desktop
         ~/dotfiles-desktop/install.sh
 EOF
 [[ $backed_up -eq 1 ]] && printf '  • Pre-existing files backed up to: %s\n' "$BACKUP_DIR"

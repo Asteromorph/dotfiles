@@ -5,12 +5,12 @@ Works on any Arch-family box (Arch, CachyOS, EndeavourOS, …). No desktop
 assumptions — clone this on servers, work laptops, and headless boxes too.
 
 For the desktop side (Hyprland, Quickshell, kitty, alacritty, GTK theming),
-see [`dotfiles-desktop`](https://github.com/<your-username>/dotfiles-desktop).
+see [`dotfiles-desktop`](https://github.com/Asteromorph/dotfiles-desktop).
 
 ## Quick install
 
 ```bash
-git clone https://github.com/<your-username>/dotfiles ~/dotfiles
+git clone https://github.com/Asteromorph/dotfiles ~/dotfiles
 cd ~/dotfiles
 ./install.sh
 ```
